@@ -1,0 +1,8 @@
+{
+    "base_path": "/var/projects/rakam/haliro-back/enterprise/.gpm/base.json",
+    "gpm_path": "/var/projects/rakam/haliro-back/enterprise/.gpm",
+    "name": "dj-enterprise",
+    "project_type": "module",
+    "repository_url": "https://github.com/px57/dj-enterprise.git",
+    "root_path": "/var/projects/rakam/haliro-back/enterprise"
+}
