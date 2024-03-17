@@ -53,4 +53,3 @@ class EmployeeRoleModel(BaseMetadataModel):
         EnterpriseRoleListModel, 
         on_delete=models.CASCADE
     )
-
